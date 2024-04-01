@@ -63,7 +63,7 @@ const Auth = () => {
     <div className='flex  mr-10 '>
       <img src={Logo} alt="" className='h-10 w-12 m-2 mt-8' />
       <div>
-        <h1 className=' text-orange-400 text-5xl font-bold mb-5 '>Social Connect<</h1>
+        <h1 className=' text-orange-400 text-5xl font-bold mb-5 '>Social Connect</h1>
         <h6 className=' text-black font-bold '>Explore the ideas throughout the world</h6>
       </div> 
     </div>
